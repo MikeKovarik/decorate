@@ -1,6 +1,6 @@
 {
   "name": "decorate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "🧪 Use decorators without the syntax & transpilers",
   "main": "index.js",
   "type": "module",
