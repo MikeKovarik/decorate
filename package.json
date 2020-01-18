@@ -1,0 +1,16 @@
+{
+  "name": "decorate",
+  "version": "0.0.0",
+  "description": "🧪 Use decorators without the syntax & transpilers",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "decorators",
+    "decorator",
+    "decorate",
+    "syntax",
+    "transpiler"
+  ],
+  "author": "Mike Kovařík",
+  "license": "MIT"
+}
